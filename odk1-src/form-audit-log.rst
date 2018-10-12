@@ -45,12 +45,12 @@ Audit logs can be reviewed in Aggregate and downloaded for further analysis usin
 
 In Aggregate 1.5.0+, audit logs can be viewed by clicking on the media icon in the :th:`meta audit` column on the Submissions page:
 
-.. image:: /img/form-audit-log/audit-media-icon.png
+.. image:: /odk1-src/img/form-audit-log/audit-media-icon.png
   :alt: The Aggregate submissions page with a form that has an audit log. The media icon in the meta audit column is circled.
 
 This displays a popup with the audit contents:
 
-.. image:: /img/form-audit-log/audit-example.png
+.. image:: /odk1-src/img/form-audit-log/audit-example.png
   :alt: An example audit log in Aggregate.
 
 If more sophisticated analysis of the logs is required, logs can be downloaded along with their submissions using :ref:`Briefcase <pull-from-aggregate>`.
